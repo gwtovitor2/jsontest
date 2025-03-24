@@ -2,5 +2,9 @@
   "eventoexpirado": {
     "startDate": "2025-03-23",
     "endDate": "2025-03-23"
+  },
+  "evento-nao-iniciado": {
+    "startDate": "2025-03-25",
+    "endDate": "2025-03-26"
   }
 }

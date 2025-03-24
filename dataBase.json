@@ -2,9 +2,5 @@
   "evento-nao-iniciado": {
     "startDate": "2025-03-27",
     "endDate": "2025-03-28"
-  },
-  "evento-teste": {
-    "startDate": "2025-03-24",
-    "endDate": "2025-03-25"
   }
 }

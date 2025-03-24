@@ -2,5 +2,9 @@
   "evento-de-teste": {
     "startDate": "2025-03-24",
     "endDate": "2025-03-25"
+  },
+  "evento-expirado": {
+    "startDate": "2025-03-22",
+    "endDate": "2025-03-23"
   }
 }

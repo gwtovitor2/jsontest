@@ -6,5 +6,9 @@
   "evento-nao-iniciado": {
     "startDate": "2025-03-25",
     "endDate": "2025-03-26"
+  },
+  "evento-funcional": {
+    "startDate": "2025-03-24",
+    "endDate": "2025-03-29"
   }
 }

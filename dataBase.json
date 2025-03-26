@@ -2,5 +2,9 @@
   "futuro-suave": {
     "startDate": "2025-03-24",
     "endDate": "2025-03-25"
+  },
+  "teste": {
+    "startDate": "2025-03-25",
+    "endDate": "2025-03-27"
   }
 }

@@ -6,5 +6,9 @@
   "prors": {
     "startDate": "2025-09-17",
     "endDate": "2025-09-17"
+  },
+  "prors-alvorada": {
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-18"
   }
 }
